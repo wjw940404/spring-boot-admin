@@ -1,4 +1,4 @@
-description = 'com.jerry.springboot client'
+description = 'com.jerry.springboot admin-client'
 
 dependencies {
     implementation('org.springframework.boot:spring-boot-starter-web')

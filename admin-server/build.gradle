@@ -1,4 +1,4 @@
-description = 'com.jerry.springboot server'
+description = 'com.jerry.springboot admin-server'
 
 dependencies {
 	implementation('de.codecentric:spring-boot-admin-starter-server')
