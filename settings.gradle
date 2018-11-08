@@ -1,4 +1,5 @@
-rootProject.name = 'springboot'
-include ':admin-server'
+rootProject.name = 'spring-boot-admin'
 include ':admin-client'
-
+include ':admin-client-eureka'
+include ':admin-server'
+include ':admin-server-eureka'

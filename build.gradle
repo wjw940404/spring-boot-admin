@@ -1,4 +1,4 @@
-description = 'com.jerry.springboot'
+description = 'com.jerry.admin'
 
 buildscript {
 	ext {

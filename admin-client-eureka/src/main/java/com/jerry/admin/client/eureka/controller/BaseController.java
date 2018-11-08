@@ -1,4 +1,4 @@
-package com.jerry.springboot.admin.client.controller;
+package com.jerry.admin.client.eureka.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

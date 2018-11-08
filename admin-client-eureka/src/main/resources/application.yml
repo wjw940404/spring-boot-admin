@@ -1,0 +1,23 @@
+server:
+  port: 8281
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.1.61:8761/eureka/ # 向每个注册中心注册，用逗号隔开
+spring:
+  application:
+    name: spring-demo-service
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+      health:
+        show-details: ALWAYS
+
+logging:
+  level:
+    root: debug
