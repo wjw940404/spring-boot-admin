@@ -1,4 +1,4 @@
-package com.jerry.springboot.server;
+package com.jerry.springboot.admin.server;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;

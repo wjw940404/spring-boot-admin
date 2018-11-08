@@ -1,4 +1,4 @@
-package com.jerry.springboot.client.controller;
+package com.jerry.springboot.admin.client.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

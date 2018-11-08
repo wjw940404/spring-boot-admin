@@ -1,4 +1,4 @@
-package com.jerry.springboot.server;
+package com.jerry.springboot.admin.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

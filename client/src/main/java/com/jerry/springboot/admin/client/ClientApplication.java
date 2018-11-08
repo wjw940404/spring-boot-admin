@@ -1,4 +1,4 @@
-package com.jerry.springboot.client;
+package com.jerry.springboot.admin.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
