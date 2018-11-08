@@ -47,3 +47,4 @@ eureka:
 logging:
   level:
     root: debug
+  path: logs/admin-server-eureka/

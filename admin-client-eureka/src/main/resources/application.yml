@@ -21,3 +21,4 @@ management:
 logging:
   level:
     root: debug
+  path: logs/admin-client-eureka/

@@ -3,3 +3,4 @@ server:
 logging:
   level:
     root: debug
+  path: logs/admin-server/
