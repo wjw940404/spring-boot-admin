@@ -1,0 +1,8 @@
+description = 'com.jerry.springboot server'
+
+dependencies {
+	implementation('de.codecentric:spring-boot-admin-starter-server')
+//	implementation('org.springframework.cloud:spring-cloud-starter-zookeeper-discovery')
+	implementation('org.jolokia:jolokia-core')
+	testImplementation('org.springframework.boot:spring-boot-starter-test')
+}
