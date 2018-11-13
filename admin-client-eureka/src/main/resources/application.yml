@@ -4,7 +4,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://192.168.1.61:8761/eureka/ # 向每个注册中心注册，用逗号隔开
+      defaultZone: http://localhost:8761/eureka/ # 向每个注册中心注册，用逗号隔开
 spring:
   application:
     name: spring-demo-service
